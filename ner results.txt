@@ -1,6 +1,3 @@
-Liat Schiff 207040544
-Ruben Wolhandler 342674983
-
 NER/DEV Dataset
 
 HMM viterbi tagger:
