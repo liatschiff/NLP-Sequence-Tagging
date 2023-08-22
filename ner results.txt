@@ -1,0 +1,32 @@
+Liat Schiff 207040544
+Ruben Wolhandler 342674983
+
+NER/DEV Dataset
+
+HMM viterbi tagger:
+
+    Accuracy: 0.963938113149017
+
+    F-score: 0.8200371057513914
+
+All-types       Precision: 0.8218390804597702 Recall: 0.8182430158195894
+       ORG      Precision: 0.7170349251603706 Recall: 0.750186428038777
+       PER      Precision: 0.8376156217882836 Recall: 0.8849077090119435
+       LOC      Precision: 0.8877254217568353 Recall: 0.8307022318998367
+      MISC      Precision: 0.8254716981132075 Recall: 0.7592190889370932
+
+Features-tagger:
+
+    Accuracy: 0.9738648260886424
+
+    F-score: 0.8726314895063303
+
+    All-types       Precision: 0.8812424918482924 Recall: 0.8641871423763042
+       PER      Precision: 0.8836091831286705 Recall: 0.8984799131378935
+      MISC      Precision: 0.8713450292397661 Recall: 0.8080260303687635
+       LOC      Precision: 0.9169894853348091 Recall: 0.9020141535111595
+       ORG      Precision: 0.8343653250773994 Recall: 0.8038777032065623
+        
+
+
+
